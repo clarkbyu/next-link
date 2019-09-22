@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pygraphviz
+pydot
+scipy
+gdal
+networkx
